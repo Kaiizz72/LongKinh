@@ -1,0 +1,8 @@
+name: LongKinh
+version: 1.0
+main: com.craftvn.longkinh.Main
+api-version: 1.21
+commands:
+  mualong:
+    description: Mua kỹ năng Lồng Kính
+    usage: /mualong
